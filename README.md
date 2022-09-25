@@ -1,4 +1,4 @@
-## <p align="center"> 👋 Hello, Growee </p>
+## <p align="center"> 👋 Hello, I'm Growee </p>
 
 <p align="center">
     <img alt="html" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp
