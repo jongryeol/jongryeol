@@ -24,6 +24,7 @@
     <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=Zoom&logoColor=white"/>
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
     <img alt="Notion" src="https://img.shields.io/badge/Notion-222222?style=for-the-badge&logo=Notion&logoColor=white"/>
+    <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white"/>
 </p>
 
 ### <p align="center"> 🛠 Stack  </p>
